@@ -1,0 +1,16 @@
+[20-May-2022 01:09:58 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home/littledavid/public_html/inc/phpmailer/class.smtp.php on line 343
+[20-May-2022 22:05:46 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home/littledavid/public_html/inc/phpmailer/class.smtp.php on line 343
+[23-May-2022 19:14:22 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home/littledavid/public_html/inc/phpmailer/class.smtp.php on line 343
+[25-May-2022 12:11:55 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home/littledavid/public_html/inc/phpmailer/class.smtp.php on line 343
+[26-May-2022 18:32:33 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home/littledavid/public_html/inc/phpmailer/class.smtp.php on line 343
+[27-May-2022 05:17:55 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home/littledavid/public_html/inc/phpmailer/class.smtp.php on line 343
+[29-May-2022 10:00:44 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home/littledavid/public_html/inc/phpmailer/class.smtp.php on line 343
+[29-May-2022 20:20:54 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed in /home/littledavid/public_html/inc/phpmailer/class.smtp.php on line 343
